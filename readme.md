@@ -2,9 +2,9 @@
 
 ## Task Manager Mobile App (CM3050 Mobile Development)
 
-TaskNest is a task manger app which aim is to help user stay organized and focused.
+TaskNest is a task manager app whose aim is to help users stay organized and focused.
 
-To start using the app, you can either create a new account, or test with the user: Email: hi@uol.com Password: uoluol
+To start using the app, you can either create a new account or test with the user: Email: hi@uol.com Password: uoluol
 
 The app can be tested in Expo Go or iPhone.
 
