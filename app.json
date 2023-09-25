@@ -4,10 +4,10 @@
     "slug": "task-management-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/onboarding1.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/images/onboarding1.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -15,16 +15,23 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.flower1.taskmanagementapp"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/images/onboarding1.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.flower1.taskmanagementapp"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/images/onboarding1.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2fa20647-5b68-4504-8072-2b24001a00ca"
+      }
     }
   }
 }
