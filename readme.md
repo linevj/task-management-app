@@ -1,6 +1,6 @@
-# CM3070 Final Project
+# Final Project
 
-## Task Manager Mobile App (CM3050 Mobile Development)
+## Task Manager Mobile App ( Mobile Development)
 
 TaskNest is a task manager app whose aim is to help users stay organized and focused.
 
